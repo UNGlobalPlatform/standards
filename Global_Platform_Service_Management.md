@@ -1,14 +1,12 @@
-UNSC GWG
+UNGP GWG
 
 Global Platform of Data, Services and Applications (GP)
 
 Platform Service Management
 
-<span id="_Toc161554479" class="anchor"><span id="_Toc187050275" class="anchor"></span></span>
+1.  Service Management
 
-1.  <span id="_Toc405473560" class="anchor"></span>Service Management
-
-    Suppliers are expected to collaborate with each other and their service management tools should integrate with the GP service management tool.
+Suppliers are expected to collaborate with each other and their service management tools should integrate with the Global Platform service management tool.
 
 |Ref | Description|
 |---|---|
