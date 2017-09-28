@@ -4,6 +4,8 @@ Global Platform of Data, Services and Applications (GP)
 
 The Principles
 
+**Start with needs:** The design process must start with identifying and thinking about real user needs. We should design around those. We must understand those needs thoroughly — interrogating data, not just making assumptions — and we should remember that what users ask for is not always what they need.
+
 **Cloud computing:** We prefer to use services that can be provided to us by a third party as a cloud service as opposed to creating or managing services ourselves.
 
 *Rationale: increases flexibility; reduces capital and revenue costs; maximises accessibility and collaboration; allows access regardless of location 24 hours a day, seven days a week; supports partnership working and shared services.*
@@ -35,8 +37,6 @@ The Principles
 **Electronic Information and data are open by default:** We will treat all non-personal and non-sensitive information openly and transparently. We will open information to everyone and provide methods for anyone to access it.
 
 *Rationale: encourages good governance; meets expectations in relation to open government; encourages innovative use of public domain data and information; reduces requests for information and related staff costs; ensures better service delivery.*
-
-**Start with needs:** The design process must start with identifying and thinking about real user needs. We should design around those. We must understand those needs thoroughly — interrogating data, not just making assumptions — and we should remember that what users ask for is not always what they need.
 
 **Iterate. Then iterate again:** The best way to build effective services is to start small and iterate wildly. Release Minimum Viable Products early, test them with real users, move from Alpha to Beta to Launch adding features and refinements based on feedback from real users.
 
