@@ -2,7 +2,6 @@ UNSC GWG
 
 Global Platform of Data, Services and Applications (GP)
 
-Principles
 The Principles
 
 **Utility computing:** We prefer to use services that can be provided to us by a third party as a utility (rather like a metered service based on need) as opposed to creating or managing services ourselves.
