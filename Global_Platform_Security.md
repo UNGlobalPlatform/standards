@@ -37,30 +37,32 @@ General Security Requirements
 | 1.27 | The Supplier MUST state if the Patriot Act applies to any of the service components|
 | 1.28 | The Supplier MUST notify the contracting authority if any changes to their business mean that the Patriot Act may apply|
 | 1.29 | The Supplier MUST allow a designated third party to test for vulnerabilities in the system or provide a report from a third party.|
+
 2.  Hosting Security Requirements
+
 | Ref  | Description |
 |------|-------------|
-| 2.1   | The Supplier MUST provide detailed Recovery Time Objectives (RTOs) for their Cloud infrastructure components.|
-| 2.2   | The Supplier MUST provide detailed Recovery Point Objectives (RPOs) for their Cloud infrastructure components.|
-| 2.3   | The Supplier MUST perform regular data extractions to a format that MUST be usable without the Supplier.|
-| 2.4   | The Supplier MUST provide evidence that the data is backed up and recovery MUST be in place and effective in order to prevent data loss, unwanted data overwrite, and destruction.|
-| 2.5   | The Supplier MUST provide evidence that the Business Continuity Program is certified and / or mapped to internationally recognised standards such as ISO 22301 or equivalent - ″Societal Security — Business continuity management systems — Requirements″ and ISO 22313 - ″Societal Security — Business continuity management systems — Guidance″ |
-| 2.6   | The Supplier MUST detail the practices used for decommissioning of disks and storage devices.|
-| 2.7   | The Supplier MUST provide advance notification to the data owner if the data will be seized.|
-| 2.8   | The Supplier MUST destroy the data on request and provide evidence that there are techniques for completely and effectively locating data in the cloud, erasing / destroying data, and assuring the data has been completely removed or rendered unrecoverable.|
-| 2.9   | The Supplier MUST perform regular backup and recovery tests to assure that logical segregation and controls are effective.|
-| 2.11   | The Supplier MUST detail the data search capabilities and limitations when attempting to view ‘inside’ the dataset for data discovery.|
-| 2.12   | The Supplier MUST provide details on how metadata can be preserved and migrated.|
-| 2.13   | The Supplier MUST ensure that data is encrypted at rest|
-| 2.14   | The Supplier SHOULD provide a forensic image if required|
-| 2.15   | The Supplier MUST specify the extent and purpose of any monitoring of customer use of the system|
-| 2.16   | The Supplier SHOULD have a single sign-on option (SAML2 compliant)|
-| 2.17   | The Supplier MUST provide regular reports to the customer on threat events|
-| 2.18   | The Supplier MUST undertake regular penetration / vulnerability testing of its services|
-| 2.19   | The Supplier SHOULD make results of penetration / vulnerability tests available to its customers|
-| 2.20   | The Supplier SHOULD support certificates on mobile devices for authentication|
-| 2.21   | MUST specify the extent and purpose of any monitoring of customer use of the system/s.|
-| 2.22   | The Supplier MUST enforce the data owner’s access requirements. Such responsibilities should be in the contract and enforced and audited for compliance.|
-| 2.23   | The Supplier MUST have a secure process for creating, modifying and deleting user accounts, and for assigning privileges to those accounts|
-| 2.24   | The Supplier MUST provide the details of parameters that are captured within log files, what log file entries the Authority has access to and what period the log files are available for analysis.|
-| 2.25   | The Supplier MUST detail the roles & responsibilities related to electronic discovery, including such activities as litigation hold, discovery searches, who provides expert testimony, etc.|
+| 2.1  | The Supplier MUST provide detailed Recovery Time Objectives (RTOs) for their Cloud infrastructure components.|
+| 2.2  | The Supplier MUST provide detailed Recovery Point Objectives (RPOs) for their Cloud infrastructure components.|
+| 2.3  | The Supplier MUST perform regular data extractions to a format that MUST be usable without the Supplier.|
+| 2.4  | The Supplier MUST provide evidence that the data is backed up and recovery MUST be in place and effective in order to prevent data loss, unwanted data overwrite, and destruction.|
+| 2.5  | The Supplier MUST provide evidence that the Business Continuity Program is certified and / or mapped to internationally recognised standards such as ISO 22301 or equivalent - ″Societal Security — Business continuity management systems — Requirements″ and ISO 22313 - ″Societal Security — Business continuity management systems — Guidance″ |
+| 2.6  | The Supplier MUST detail the practices used for decommissioning of disks and storage devices.|
+| 2.7  | The Supplier MUST provide advance notification to the data owner if the data will be seized.|
+| 2.8  | The Supplier MUST destroy the data on request and provide evidence that there are techniques for completely and effectively locating data in the cloud, erasing / destroying data, and assuring the data has been completely removed or rendered unrecoverable.|
+| 2.9  | The Supplier MUST perform regular backup and recovery tests to assure that logical segregation and controls are effective.|
+| 2.11 | The Supplier MUST detail the data search capabilities and limitations when attempting to view ‘inside’ the dataset for data discovery.|
+| 2.12 | The Supplier MUST provide details on how metadata can be preserved and migrated.|
+| 2.13 | The Supplier MUST ensure that data is encrypted at rest|
+| 2.14 | The Supplier SHOULD provide a forensic image if required|
+| 2.15 | The Supplier MUST specify the extent and purpose of any monitoring of customer use of the system|
+| 2.16 | The Supplier SHOULD have a single sign-on option (SAML2 compliant)|
+| 2.17 | The Supplier MUST provide regular reports to the customer on threat events|
+| 2.18 | The Supplier MUST undertake regular penetration / vulnerability testing of its services|
+| 2.19 | The Supplier SHOULD make results of penetration / vulnerability tests available to its customers|
+| 2.20 | The Supplier SHOULD support certificates on mobile devices for authentication|
+| 2.21 | MUST specify the extent and purpose of any monitoring of customer use of the system/s.|
+| 2.22 | The Supplier MUST enforce the data owner’s access requirements. Such responsibilities should be in the contract and enforced and audited for compliance.|
+| 2.23 | The Supplier MUST have a secure process for creating, modifying and deleting user accounts, and for assigning privileges to those accounts|
+| 2.24 | The Supplier MUST provide the details of parameters that are captured within log files, what log file entries the Authority has access to and what period the log files are available for analysis.|
+| 2.25 | The Supplier MUST detail the roles & responsibilities related to electronic discovery, including such activities as litigation hold, discovery searches, who provides expert testimony, etc.|
