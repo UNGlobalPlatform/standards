@@ -1,10 +1,10 @@
-UNSC GWG
+UNGP GWG
 
 Global Platform of Data, Services and Applications (GP)
 
 The Principles
 
-**Utility computing:** We prefer to use services that can be provided to us by a third party as a utility (rather like a metered service based on need) as opposed to creating or managing services ourselves.
+**Cloud computing:** We prefer to use services that can be provided to us by a third party as a cloud service as opposed to creating or managing services ourselves.
 
 *Rationale: increases flexibility; reduces capital and revenue costs; maximises accessibility and collaboration; allows access regardless of location 24 hours a day, seven days a week; supports partnership working and shared services.*
 
