@@ -9,7 +9,7 @@ The Principles
 
 *Rationale: increases flexibility; reduces capital and revenue costs; maximises accessibility and collaboration; allows access regardless of location 24 hours a day, seven days a week; supports partnership working and shared services.*
 
-**Reuse:** ICT will be made up of components that can be used in many different situations and shared more widely between different parts of the UPC and partners, rather than each problem or requirement being addressed individually.
+**Reuse:** ICT will be made up of components that can be used in many different situations and shared more widely between different parts of the UN and partners, rather than each problem or requirement being addressed individually.
 
 *Rationale: supports the development of key, corporate sources of data; reduces development time; removes duplication of functions and data; increases accuracy of information; increases reliability of data and systems; reduces management costs.*
 
@@ -29,7 +29,7 @@ The Principles
 
 *Rationale: ensures appropriate security is supplied; avoids over-engineered solutions; strikes an appropriate balance between control and business need; supports innovation and opportunity.*
 
-**Any user device:** We will provide our services to any appropriate and suitably secured device, whether or not it is owned and managed by UPC.
+**Any user device:** We will provide our services to any appropriate and suitably secured device, whether or not it is owned and managed by the UN.
 
 *Rationale: increases user choice and flexibility; removes dependence on specific devices; reduces device costs; minimises device management costs; maintains appropriate levels of security.*
 
