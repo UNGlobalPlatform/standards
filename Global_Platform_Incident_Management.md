@@ -1,4 +1,4 @@
-UNSC GWG
+UNGP GWG
 
 Global Platform of Data, Services and Applications (GP)
 
