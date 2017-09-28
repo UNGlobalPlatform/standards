@@ -9,7 +9,7 @@ Platform Service Management
 Suppliers are expected to collaborate with each other and their service management tools should integrate with the Global Platform service management tool.
 
 |Ref | Description|
-|---|---|
+|----|------------|
 | 1.1  | The Supplier MUST ensure the service is available 99.8%, 24x7, calculated over a calendar month excluding maintenance and detail all Service Levels associated with the service.|
 | 1.2  | The Supplier SHOULD ensure 100% of transactions are processed by the service without error|
 | 1.3  | The Supplier MUST ensure the Authority is given sufficient notice of upgrades that will affect the internal IT infrastructure of contracting authority supporting the service – at least 6 months.|
