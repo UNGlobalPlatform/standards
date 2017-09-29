@@ -4,7 +4,7 @@ Global Platform of Data, Services and Applications (GP)
 
 Platform Portability
 
-1.  Portability
+1. Portability
 
 In order to ensure that a competitive tender can be used to select another potential provider after the lifetime of the solution to be supplied under this tender, an anti-lock-in requirement must be met.
 
